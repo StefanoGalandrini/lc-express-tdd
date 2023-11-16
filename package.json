@@ -1,0 +1,23 @@
+{
+  "name": "lc-express-tdd",
+  "version": "1.0.0",
+  "description": "Demo su come lavorare in manieara TDD ed usare gli Unit Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florian-Bool-React-1/lc-express-tdd.git"
+  },
+  "author": "Leica Florian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florian-Bool-React-1/lc-express-tdd/issues"
+  },
+  "homepage": "https://github.com/Florian-Bool-React-1/lc-express-tdd#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
